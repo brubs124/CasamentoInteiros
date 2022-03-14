@@ -1,0 +1,1 @@
+Olá, esse programa produz uma única linha, contendo os dois números inteiros produzidos pelo casamento dos números dados, em ordem não decrescente.
